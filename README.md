@@ -1,6 +1,6 @@
 # 🎓 AI/ML Internship Repository
 
-This repository contains code and projects from my AI/ML internship. It covers essential topics from Python basics to deep learning.
+This repository contains code from my AI/ML internship. It covers essential topics from Python basics to deep learning.
 
 ---
 
