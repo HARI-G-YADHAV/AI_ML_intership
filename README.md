@@ -19,7 +19,7 @@ This repository contains code and projects from my AI/ML internship. It covers e
 
 ## 🚀 Tools Used
 
-Python, Jupyter/Colab, Scikit-learn, NLTK, Seaborn, Keras, TensorFlow
+Python, Jupyter/VScode, re, matplotlib, seaborn, pandas, numpy
 
 ---
 
