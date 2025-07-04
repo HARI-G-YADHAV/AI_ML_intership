@@ -4,9 +4,9 @@ This repository contains code and projects from my AI/ML internship. It covers e
 
 ---
 
-## 🗂️ Topics Covered
+## 🗂️ Syllabus
 
-- **Python Basics** – Variables, loops, functions, file handling
+- **Python Basics** – Variables, loops, functions, file handling  
 - **Data Visualization** – Matplotlib, Seaborn, line/bar/pie charts
 - **NLP** – Text cleaning, tokenization, TF-IDF, lemmatization
 - **Machine Learning** – Logistic Regression, Naive Bayes, evaluation metrics
