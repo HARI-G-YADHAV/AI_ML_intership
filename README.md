@@ -19,7 +19,7 @@ This repository contains code from my AI/ML internship. It covers essential topi
 
 ## 🚀 Tools Used
 
-Python, Jupyter/VScode, re, matplotlib, seaborn, pandas, numpy, Scikit-learn
+Python, Jupyter/VScode, re, matplotlib, seaborn, pandas, numpy, Scikit-learn, Tensorflow
 
 ---
 
